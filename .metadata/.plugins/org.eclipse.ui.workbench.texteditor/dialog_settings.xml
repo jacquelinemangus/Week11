@@ -6,8 +6,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="executeUpdate"/>
 		<list key="findhistory">
+			<item value="executeUpdate"/>
+			<item value="insertproject"/>
 			<item value="deleteProject()"/>
 			<item value="try(PreparedStatement stmt =conn."/>
 			<item value="try(PreparedStatement"/>
@@ -21,8 +23,6 @@
 			<item value="project"/>
 			<item value="catch(Exception e)"/>
 			<item value="fetchCategoriesForProject"/>
-			<item value="private List&lt;Material&gt;"/>
-			<item value="private List&lt;category&gt; fetch"/>
 		</list>
 		<list key="replacehistory">
 		</list>
